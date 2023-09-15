@@ -33,9 +33,9 @@ Step 8 :
 Save and Run the Program.
 
 ## Program:
-Devoloped by : Kumaran B
+Devoloped by : Dineshkumar V
 
-Register No : 2122220230026
+Register No : 2122220230013
 
 block.x=1023
 
@@ -496,14 +496,14 @@ int main(int argc, char **argv)
 
 ```
 ## Output:
-block.x = 1023
+### block.x = 1023
 ![1pc](https://github.com/kumaranricky/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75243072/31cb8765-e12c-4c5e-9023-f24d1667bb9e)
 ```python
 Sum Arrays on Host : 0.034583 sec.
 Sum Arrays on GPU : 0.019774 sec.
 ```
 
-block.x = 1024
+### block.x = 1024
 
 
 ![2pc](https://github.com/kumaranricky/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75243072/f25aae45-e1fa-4c53-b768-d9fd47c93f25)
@@ -512,7 +512,7 @@ Sum Arrays on Host : 0.033751 sec.
 Sum Arrays on GPU : 0.022122 sec.
 ```
 
-block.x = 256
+### block.x = 256
 
 
 ![3pc](https://github.com/kumaranricky/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75243072/f660b500-a37d-4834-b4b6-f1fee4efce04)
